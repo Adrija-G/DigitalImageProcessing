@@ -4,11 +4,10 @@ This repo contains some basic programs and implementations in the field of Digit
 
 # Contents
 
-| Program Name            | What it is about | Project Link                                       |  
-|-------------------------|---------------------------------------------------|
-| Simple Edge Detection            | -This code snippet provides a basic illustration of edge detection. 
--It begins by generating a 6x6 grayscale image with varying intensity values (20 for white and 10 for black). 
--Next, a 3x3 edge detection kernel is applied to the image using the OpenCV function `cv2.filter2D`. 
-- This convolution operation highlights the edges in the original image, and the result is displayed in grayscale using `plt.imshow`.  |  [SimpleEdgeDetection](https://github.com/Adrija-G/DigitalImageProcessing/blob/main/SimpleEdgeDetection.ipynb) |
-|        || |
-|           || |
+| Program Name          | What it is about |
+|-----------------------|-------------------|
+| Simple Edge Detection | - This code snippet provides a basic illustration of edge detection. 
+                        | - It begins by generating a 6x6 grayscale image with varying intensity values (20 for white and 10 for black). 
+                        | - Next, a 3x3 edge detection kernel is applied to the image using the OpenCV function `cv2.filter2D`. 
+                        | - This convolution operation highlights the edges in the original image, and the result is displayed in grayscale using `plt.imshow`. |
+| Project Link          | [SimpleEdgeDetection](https://github.com/Adrija-G/DigitalImageProcessing/blob/main/SimpleEdgeDetection.ipynb) |
