@@ -4,7 +4,4 @@
 
 | Sobel Operator                   | Scharr Operator                    | Prewitt Operator                   |
 |-----------------------------------|------------------------------------|------------------------------------|
-
 | ![Sobel Operator](https://github.com/Adrija-G/DigitalImageProcessing/blob/main/Images/SobelOperator.jpeg) | ![Scharr Operator](https://github.com/Adrija-G/DigitalImageProcessing/blob/main/Images/ScharrOperator.jpeg) | ![Prewitt Operator](https://github.com/Adrija-G/DigitalImageProcessing/blob/main/Images/PrewittOperator.jpeg) |
-
-
